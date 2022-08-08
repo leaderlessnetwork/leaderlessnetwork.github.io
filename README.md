@@ -14,4 +14,4 @@ At the start, since it is a PoA chain, we will provide guidance on launching the
 ##### Discussions
 
 This is the official discussion forum where everything will be coordinated:  
-https://github.com/orgs/leaderlessnetwork/discussions
+[https://github.com/orgs/leaderlessnetwork/discussions](https://github.com/orgs/leaderlessnetwork/discussions)
