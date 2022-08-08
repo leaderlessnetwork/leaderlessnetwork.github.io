@@ -1,6 +1,6 @@
 ## Leaderless Network
 
-Leaderless Network is an EVM blockchain initially under PoA and will have its own beacon chain and become PoS.
+Leaderless Network is an EVM blockchain initially under PoA and will have its own beacon chain and will become PoS.
 
 ### Supply and Distribution 
 
